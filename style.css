@@ -3,7 +3,7 @@ html, body {
 	margin: 0;
 	overflow: hidden;
 	
-	background: #3ed4f5;
+	background: #eb2f23;
 	color: white;
 }
 
@@ -19,7 +19,7 @@ html, body, canvas {
 	border: 2px solid #aaa;
 	border-radius: 1em;
 	padding: 2em;
-	background-color: #3ed4f5;
+	background-color: #f0f0f0;
 	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
 	color: black;
 }
